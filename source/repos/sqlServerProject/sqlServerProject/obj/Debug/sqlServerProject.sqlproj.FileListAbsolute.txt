@@ -1,0 +1,10 @@
+C:\Users\jency.magdalene\source\repos\sqlServerProject\sqlServerProject\bin\Debug\sqlServerProject.dacpac
+C:\Users\jency.magdalene\source\repos\sqlServerProject\sqlServerProject\bin\Debug\sqlServerProject.dll
+C:\Users\jency.magdalene\source\repos\sqlServerProject\sqlServerProject\bin\Debug\sqlServerProject.pdb
+C:\Users\jency.magdalene\source\repos\sqlServerProject\sqlServerProject\obj\Debug\sqlServerProject.sqlproj.AssemblyReference.cache
+C:\Users\jency.magdalene\source\repos\sqlServerProject\sqlServerProject\obj\Debug\Model.xml
+C:\Users\jency.magdalene\source\repos\sqlServerProject\sqlServerProject\obj\Debug\refactor.xml
+C:\Users\jency.magdalene\source\repos\sqlServerProject\sqlServerProject\obj\Debug\postdeploy.sql
+C:\Users\jency.magdalene\source\repos\sqlServerProject\sqlServerProject\obj\Debug\predeploy.sql
+C:\Users\jency.magdalene\source\repos\sqlServerProject\sqlServerProject\obj\Debug\sqlServerProject.dll
+C:\Users\jency.magdalene\source\repos\sqlServerProject\sqlServerProject\obj\Debug\sqlServerProject.pdb

@@ -1,0 +1,85 @@
+06-12-2022 17:03:38	This log contains information about the import schema operation into project 'sqlServerProject' on computer 'XE-GGN-IT-04262' by user 'Jency.Magdalene'.
+06-12-2022 17:03:38	Import of database schema has started.
+06-12-2022 17:03:41	Gathering database credentials
+06-12-2022 17:03:41	Gathering database options
+06-12-2022 17:03:41	Gathering generic database scoped configuration option
+06-12-2022 17:03:41	Gathering users
+06-12-2022 17:03:41	Gathering roles
+06-12-2022 17:03:41	Gathering application roles
+06-12-2022 17:03:41	Gathering role memberships
+06-12-2022 17:03:41	Gathering filegroups
+06-12-2022 17:03:41	Gathering full-text catalogs
+06-12-2022 17:03:41	Gathering assemblies
+06-12-2022 17:03:41	Gathering certificates
+06-12-2022 17:03:41	Gathering asymmetric keys
+06-12-2022 17:03:41	Gathering symmetric keys
+06-12-2022 17:03:41	Gathering encrypted symmetric keys
+06-12-2022 17:03:41	Gathering schemas
+06-12-2022 17:03:41	Gathering XML schema collections
+06-12-2022 17:03:41	Gathering user-defined data types
+06-12-2022 17:03:41	Gathering user-defined types
+06-12-2022 17:03:41	Gathering table types
+06-12-2022 17:03:41	Gathering unique keys for table types
+06-12-2022 17:03:41	Gathering primary keys for table types
+06-12-2022 17:03:41	Gathering indexes for table types
+06-12-2022 17:03:42	Gathering check constraints for table types
+06-12-2022 17:03:42	Gathering default constraints for table types
+06-12-2022 17:03:42	Gathering partition functions
+06-12-2022 17:03:42	Gathering partition schemes
+06-12-2022 17:03:42	Gathering functions
+06-12-2022 17:03:42	Gathering encrypted functions
+06-12-2022 17:03:42	Gathering aggregates
+06-12-2022 17:03:42	Gathering procedures
+06-12-2022 17:03:42	Gathering encrypted procedures
+06-12-2022 17:03:42	Gathering tables
+06-12-2022 17:03:42	Gathering primary keys
+06-12-2022 17:03:42	Gathering unique constraints
+06-12-2022 17:03:42	Gathering foreign keys
+06-12-2022 17:03:42	Gathering default constraints
+06-12-2022 17:03:42	Gathering check constraints
+06-12-2022 17:03:42	Gathering views
+06-12-2022 17:03:42	Gathering encrypted views
+06-12-2022 17:03:42	Gathering indexes
+06-12-2022 17:03:42	Gathering statistics
+06-12-2022 17:03:42	Gathering full-text index stoplists
+06-12-2022 17:03:42	Gathering search property lists
+06-12-2022 17:03:42	Gathering search properties
+06-12-2022 17:03:42	Gathering full-text indexes
+06-12-2022 17:03:42	Gathering column store indexes
+06-12-2022 17:03:42	Gathering spatial indexes
+06-12-2022 17:03:42	Gathering XML indexes
+06-12-2022 17:03:42	Gathering Selective XML indexes
+06-12-2022 17:03:42	Gathering encrypted triggers
+06-12-2022 17:03:42	Gathering triggers
+06-12-2022 17:03:42	Gathering encrypted and clr ddl triggers
+06-12-2022 17:03:42	Gathering ddl triggers
+06-12-2022 17:03:42	Creating edge constraints
+06-12-2022 17:03:42	Gathering synonyms
+06-12-2022 17:03:42	Gathering defaults
+06-12-2022 17:03:42	Gathering data constraint uddt bindings
+06-12-2022 17:03:42	Gathering rules
+06-12-2022 17:03:42	Gathering data constraint uddt bindings
+06-12-2022 17:03:42	Gathering message types
+06-12-2022 17:03:42	Gathering queues
+06-12-2022 17:03:42	Gathering contracts
+06-12-2022 17:03:42	Gathering services
+06-12-2022 17:03:42	Gathering event notifications
+06-12-2022 17:03:42	Gathering remote service bindings
+06-12-2022 17:03:42	Gathering broker priorities
+06-12-2022 17:03:42	Gathering signatures
+06-12-2022 17:03:42	Gathering data compression options
+06-12-2022 17:03:42	Gathering sequence types
+06-12-2022 17:03:42	Gathering security policies
+06-12-2022 17:03:42	Gather column encryption keys
+06-12-2022 17:03:42	Gathering column master keys
+06-12-2022 17:03:42	Gathering external data sources
+06-12-2022 17:03:42	Gathering external file formats
+06-12-2022 17:03:42	Gathering external tables
+06-12-2022 17:03:42	Gathering extended properties
+06-12-2022 17:03:42	Gathering assemblies
+06-12-2022 17:03:42	Gathering credentials
+06-12-2022 17:03:42	Gathering logins
+06-12-2022 17:03:42	Gathering server audits
+06-12-2022 17:03:42	Finished importing database.
+06-12-2022 17:03:42	A summary of the import was saved to the following location: C:\Users\jency.magdalene\source\repos\sqlServerProject\sqlServerProject\Import Schema Logs\sqlServerProject_20221206113338.log
+06-12-2022 17:03:42	Click Finish to continue...
